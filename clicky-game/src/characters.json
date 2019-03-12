@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "name": "Aang",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fopef_jnhx2f31x2f498262x2fpsjhjobmx2fbboh-gjmn-dibsbdufst-qipup-2x3fx78x3d231x26ix3d231x26rx3d71x26gnx3dqkqhx26gjux3ddspqx26dspqx3dgbdftx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },  
+    {
+      "id": 2,
+      "name": "Katara",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f79x2f2463395x2fpsjhjobmx2flbubsb-gjmn-dibsbdufst-qipup-v2x3fx78x3d231x26ix3d231x26rx3d71x26gnx3dqkqhx26gjux3ddspqx26dspqx3dgbdftx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 3,
+      "name": "Azula",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f03x2f2948148x2fpsjhjobmx2fqsjodftt-bavmb-uw-dibsbdufst-qipup-v2x3fx78x3d391x26ix3d391x26gjux3ddspqx26dspqx3dgbdftx26rx3d61x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 4,
+      "name": "Zuko",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f03x2f2949620x2fpsjhjobmx2fqsjodf-avlp-gjmn-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 5,
+      "name": "Sokka",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f214x2f3166271x2fpsjhjobmx2ftpllb-gjmn-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 6,
+      "name": "Toph",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f225x2f3374120x2fpsjhjobmx2fupqi-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 7,
+      "name": "Appa",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f463x2f8148505x2fpsjhjobmx2fbqqb-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 8,
+      "name": "Iroh",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f227x2f3411665x2fpsjhjobmx2fvodmf-jspi-gjmn-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 9,
+      "name": "Hakoda",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f2718x2f43240498x2fpsjhjobmx2fiblpeb-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 10,
+      "name": "Momo",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f61131x2f2111400389x2fpsjhjobmx2fnpnp-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 11,
+      "name": "Firelord Ozai",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fopef_jnhx2f2335x2f35576093x2fpsjhjobmx2fgjsfmpse-pabj-gjmn-dibsbdufst-qipup-2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 12,
+      "name": "Smellerbee",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f2796x2f44797668x2fpsjhjobmx2ftnfmmfscff-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 13,
+      "name": "Ty Lee",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f61131x2f2111400393x2fpsjhjobmx2fuz-mff-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 14,
+      "name": "Suki",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fopef_jnhx2f4495x2f78787271x2fpsjhjobmx2ftvlj-gjdujpobm-dibsbdufst-qipup-2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 15,
+      "name": "Mai",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f4943x2f87735378x2fpsjhjobmx2fnbj-v6x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 16,
+      "name": "The Duke",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f3737x2f63610498x2fpsjhjobmx2fuif-evlf-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 17,
+      "name": "King Bumi",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f61129x2f2111453876x2fpsjhjobmx2fljoh-cvnj-v3x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 18,
+      "name": "Princess Yue",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f61131x2f2111400397x2fpsjhjobmx2fqsjodftt-zvf-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26gx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 19,
+      "name": "June",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f61131x2f2111400306x2fpsjhjobmx2fkvof-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26gx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 20,
+      "name": "Cabbage Merchant",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f61131x2f2111400301x2fpsjhjobmx2fdbccbhf-nfsdibou-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26gx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    }
+  ]
